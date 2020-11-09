@@ -65,8 +65,8 @@ class App extends Component {
       {"{. . . "}Oladosu{" }"}
           </a></h1>
             <ul>
-              <li><a href="#"><i class="ri-phone-line"></i>+2348102033246</a></li>
-              <li><a href="#"><i class="ri-mail-open-line"></i>tayooladosu9@gmail.com</a></li>
+              <li><a href="/"><i class="ri-phone-line"></i>+2348102033246</a></li>
+              <li><a href="/"><i class="ri-mail-open-line"></i>tayooladosu9@gmail.com</a></li>
             </ul>
           </div>
           <div class="nav-submenu d-lg-block d-flex align-items-center justify-content-center align-self-center">
@@ -87,7 +87,7 @@ class App extends Component {
          <h3>
            I'm a Fullstack Developer
          </h3>
-         <h2 class="name-headline">Hello 👋🏽,i'm <br/> <span>Oladosu.</span>
+         <h2 class="name-headline">Hello <span role="img" aria-label="">👋🏽</span>,i'm <br/> <span>Oladosu.</span>
          </h2>
          <p>Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Node Js, React, Flutter, Redux, Laravel framework, python, java ,Javascript, MongoDB.
  I have a strong engineering background from playspread .
@@ -123,9 +123,9 @@ class App extends Component {
          <div class="icon-box">
            <div class="icon"><i class="ri-book-2-line" style={color1}></i>
            </div>
-           <h4 class="title"><a href="#">Research</a></h4>
+           <h4 class="title"><a href="/">Research</a></h4>
            <p class="description">I make research on topics related to machine learning, block chain and Algorithms</p>
-           <a class="learn-more" href="#">Learn more</a>
+           <a class="learn-more" href="/">Learn more</a>
          </div>
        </div>
 
@@ -133,18 +133,18 @@ class App extends Component {
          <div class="icon-box">
            <div class="icon"><i class="ri-code-line" style={color1}></i>
            </div>
-           <h4 class="title"><a href="#">Web. development</a></h4>
+           <h4 class="title"><a href="/">Web. development</a></h4>
            <p class="description">I develop robust,attractive and fast website using the latest technologies to help your business</p>
-           <a class="learn-more" href="#">Learn more</a>
+           <a class="learn-more" href="/">Learn more</a>
          </div>
        </div>
 
        <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 aos-init aos-animate">
          <div class="icon-box">
            <div class="icon"><i class="ri-android-line" style={color2}></i></div>
-           <h4 class="title"><a href="#">Mobile Development</a></h4>
+           <h4 class="title"><a href="/">Mobile Development</a></h4>
            <p class="description">As a top class mobile app developer, i build mobile applications to solve problems to help grow your business</p>
-           <a class="learn-more" href="#">Learn more</a>
+           <a class="learn-more" href="/">Learn more</a>
 
          </div>
        </div>
@@ -236,7 +236,7 @@ class App extends Component {
            <h2 class="text-left">Experience</h2>
            <p class="text-left">I am a Full-Stack developer with a passion for web and mobile technologies. I write robust, clean, re-usable,testable and maintainable code.
 This also means I strive to follow best practices and use industry-standard tools.<p/>
-             <a href="#" class="btn-get-started-solid">Download Resume</a></p>
+             <a href="/" class="btn-get-started-solid">Download Resume</a></p>
          </div>
        </div>
 
@@ -304,45 +304,45 @@ Environments.
            <div class="col col-lg-5 col-md-12 col-sm-12 col-xs-12 mt-md-0">
              <div class="icon-box">
                <i class="ri-flutter-line"></i>
-               <h3><a href="#">Flutter</a><strong>80%</strong></h3>
+               <h3><a href="/">Flutter</a><strong>80%</strong></h3>
              </div>
            </div>
            <div class="col col-lg-6 col-md-12 col-sm-12 col-xs-12 mt-4 mt-md-0">
              <div class="icon-box">
                <i class="ri-reactjs-line"></i>
-               <h3><a href="#">ReactJs</a><strong>90%</strong></h3>
+               <h3><a href="/">ReactJs</a><strong>90%</strong></h3>
              </div>
            </div>
            <div class="col col-lg-4 col-md-12 col-sm-12 col-xs-12 mt-4 ">
              <div class="icon-box">
 
                <i class='bx bxl-nodejs'></i>
-               <h3><a href="#">Node JS</a><strong>70%</strong></h3>
+               <h3><a href="/">Node JS</a><strong>70%</strong></h3>
              </div>
            </div>
            <div class="col col-lg-5 col-md-12 col-sm-12 col-xs-12 mt-4 mt-md-8">
              <div class="icon-box">
 
                <i class="ri-ubuntu-line"></i>
-               <h3><a href="#">Management</a><strong>70%</strong></h3>
+               <h3><a href="/">Management</a><strong>70%</strong></h3>
              </div>
            </div>
            <div class="col col-lg-5 col-md-12 col-sm-12 col-xs-12 mt-4 mt-md-6">
              <div class="icon-box">
                <i class="ri-eye-2-line"></i>
-               <h3><a href="#">Analytics</a><strong>90%</strong></h3>
+               <h3><a href="/">Analytics</a><strong>90%</strong></h3>
              </div>
            </div>
            <div class="col col-lg-5 col-md-12 col-sm-12 col-xs-12 mt-4">
              <div class="icon-box">
                <i class="ri-lightbulb-flash-line"></i>
-               <h3><a href="#">Brainstroming</a><strong>60%</strong></h3>
+               <h3><a href="/">Brainstroming</a><strong>60%</strong></h3>
              </div>
            </div>
            <div class="col col-lg-8 col-md-12 col-sm-12 col-xs-12 mt-4">
              <div class="icon-box">
                <i class="ri-scissors-cut-fill"></i>
-               <h3><a href="#">Execution</a><strong>100%</strong></h3>
+               <h3><a href="/">Execution</a><strong>100%</strong></h3>
              </div>
            </div>
          </div>
@@ -456,7 +456,7 @@ to say hello? Go ahead. </p>
           <div class="info">
             <h6 class="text-left">Skype</h6>
             <div class="footer-links">
-              <a href="#">live:Habib</a>
+              <a href="/">live:Habib</a>
              
             </div>
           </div>
