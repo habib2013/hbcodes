@@ -27,9 +27,7 @@ class App extends Component {
     var color2  = {
       color: '#d935dc'
     }
-    var color3  = {
-      color: '#ff7907'
-    }
+  
     var marginee = {
       marginTop: '-160px'
     }
