@@ -1,0 +1,20 @@
+[1021/091800.541:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1021/103104.391:ERROR:process_reader_win.cc(155)] SuspendThread: Access is denied. (0x5)
+[1021/103104.479:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1021/103104.480:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1021/103104.479:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1021/103104.480:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1021/103105.053:ERROR:process_reader_win.cc(127)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[1021/103105.054:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1021/103105.054:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1021/103105.054:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1021/103105.054:ERROR:exception_snapshot_win.cc(100)] thread ID 16656 not found in process
+[1021/103105.054:ERROR:process_info.cc(551)] ReadProcessData failed
+[1021/103105.054:ERROR:process_info.cc(551)] ReadProcessData failed
+[1021/103105.054:ERROR:process_info.cc(551)] ReadProcessData failed
+[1021/103105.054:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::PEB<crashpad::process_types::internal::Traits64>]: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1021/103105.054:ERROR:process_info.cc(551)] ReadProcessData failed
+[1021/103105.055:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6eb5dfe640 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1021/103105.055:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[1021/103105.072:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1021/171230.875:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
