@@ -236,7 +236,7 @@ class App extends Component {
            <h2 class="text-left">Experience</h2>
            <p class="text-left">I am a Full-Stack developer with a passion for web and mobile technologies. I write robust, clean, re-usable,testable and maintainable code.
 This also means I strive to follow best practices and use industry-standard tools.<p/>
-             <a href="/" class="btn-get-started-solid">Download Resume</a></p>
+             <a href="https://1drv.ms/w/s!AoY-sO3PhwkchnDvxesjpvAHfW6e" target="_blank" class="btn-get-started-solid">View Resume</a></p>
          </div>
        </div>
 
@@ -365,14 +365,32 @@ Environments.
      <div class="row justify-content-between">
        <div class="col-lg-4 col-md-12">
          <div class="contact-about">
-           <h6 class="text-left">You know to find us</h6>
+           <h6 class="text-left">You know how to find me</h6>
            <h3 class="text-left">Contact.
            </h3>
 
          </div>
 
          <div class="info">
-        </div>
+            <div>
+              <i class="ri-map-pin-fill"></i>
+              <h4>Get me here</h4>
+              <p>254 Iju road,Agege Lagos State</p>
+            </div>
+
+            <div>
+              <i class="ri-mail-unread-fill"></i>
+              <h4>Get in touch</h4>
+              <p>tayooladosu9@gmail.com</p>
+            </div>
+            <div>
+              <i class="ri-phone-fill"></i>
+              <h4>Call me now</h4>
+              <p>+5234 8102033246</p>
+            </div>
+          </div>
+        
+
        </div>
        <div class="col-lg-6 col-md-12">
          <div class="contact-about">
