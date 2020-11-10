@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Nov 10 2020 12:50:43 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/App.js
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

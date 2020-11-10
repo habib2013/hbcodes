@@ -236,7 +236,7 @@ class App extends Component {
            <h2 class="text-left">Experience</h2>
            <p class="text-left">I am a Full-Stack developer with a passion for web and mobile technologies. I write robust, clean, re-usable,testable and maintainable code.
 This also means I strive to follow best practices and use industry-standard tools.<p/>
-             <a href="/" target="_blank" rel="noopener noreferrer" class="btn-get-started-solid">View Resume</a></p>
+             <a href="assets/img/Oladosu.pdf" class="btn-get-started-solid" download>Download Resume</a></p>
          </div>
        </div>
 
